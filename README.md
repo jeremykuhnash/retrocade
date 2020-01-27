@@ -1,2 +1,2 @@
 # retrocade
-Play the old games from the birth of home computers!
+Play old games from times of the birth of home computing!
